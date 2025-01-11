@@ -1,0 +1,5 @@
+scpIn.txt researcherIn.txt dataOut.txt mainOut.txt
+1
+2
+233
+3

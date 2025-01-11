@@ -1,0 +1,5 @@
+Foundation Database Started
+1 Success
+2 Success
+Command Failure
+3 Failure
